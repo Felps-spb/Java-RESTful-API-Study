@@ -1,4 +1,5 @@
 package teste.api.Teste_criacao_api.services.impl;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import teste.api.Teste_criacao_api.models.User;
 import teste.api.Teste_criacao_api.repository.UserRepository;
